@@ -1,5 +1,9 @@
 # ChessleSolver
 
+Solver for https://jackli.gg/chessle/
+
+Download .exe & .pgn files from folder "distrib", put it in the same folder and enjoy!
+
 Input format:
 
 0 - "grey" move
