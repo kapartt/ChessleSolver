@@ -1,6 +1,6 @@
 # ChessleSolver
 
-Solver for https://jackli.gg/chessle/
+Solver for https://jackli.gg/chessle/ (only expert mode)
 
 Download .exe & .pgn files from folder "distrib", put it in the same folder and enjoy!
 
